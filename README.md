@@ -3,6 +3,8 @@ Java GUI about data management of PC products such as peripherals and components
 
 Additionally, used phpMyAdmin and MySQL (MariaDB) for database connectivity.
 
+Developed Using Java, XAMPP, phpMyAdmin, MySQL (MariaDB)
+
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *Login*
